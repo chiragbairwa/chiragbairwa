@@ -6,7 +6,7 @@
 - 🔭 I’m currently working on ReactJs
 - 🌱 I’m currently learning Full Stack Development
 - 👯 I’m looking to collaborate on Open Source / Startups
-- 💬 I’m looking for help with # Internships #
+- 💬 I’m looking for # Internships #
 
 <h3>Get in touch</h3>
 - LinkedIn: https://www.linkedin.com/in/chiragbairwa/
