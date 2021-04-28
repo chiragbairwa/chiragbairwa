@@ -8,6 +8,6 @@
 - 💬 I’m looking for # Internships #
 
 <h3>Get in touch</h3>
-<a href="https://linkedin.com/in/chirag-bairwa">LinkedIn</a>   <a href="https://www.instagram.com/x.chirag_x/">Instagram</a>
+<a href="https://linkedin.com/in/chirag-bairwa">LinkedIn   </a><a href="https://www.instagram.com/x.chirag_x/">Instagram</a>
               
 
