@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [Portfolio](chiragbairwa.github.io)
 
-- 📫 How to reach me [Gmail](chiragbairwa2k18@gmail.com)
+- 📫 How to reach me [Gmail](mailto:chiragbairwa2k18@gmail.com)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
