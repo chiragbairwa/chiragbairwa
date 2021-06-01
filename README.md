@@ -23,4 +23,4 @@
   <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
 </p>
 
-<p align="center"><img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=chiragbairwa&layout=compact" alt="chiragbairwa" height="200" /><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=chiragbairwa&" height="200" alt="chiragbairwa" /></p>
+<p align="center"><img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=chiragbairwa&layout=compact" alt="chiragbairwa" height="150" /><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=chiragbairwa&" height="150" alt="chiragbairwa" /></p>
