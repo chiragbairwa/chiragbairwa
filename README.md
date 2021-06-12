@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **MERN Stack**
 
-- 👨‍💻 All of my projects are available at [Portfolio](https://chiragbairwa.github.io)
+- 👨‍💻 All of my projects are available at [Portfolio](https://chiragbairwa.codes)
 
 - 📫 How to reach me [Gmail](mailto:chirag.dev18@gmail.com)
 
