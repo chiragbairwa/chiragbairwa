@@ -9,7 +9,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/chiragbairwa" target="blank"><img align="center" src="https://icons.getbootstrap.com/assets/icons/linkedin.svg" alt="chiragbairwa" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/chirag-bairwa" target="blank"><img align="center" src="https://icons.getbootstrap.com/assets/icons/linkedin.svg" alt="chiragbairwa" height="30" width="40" /></a>
 <a href="https://instagram.com/x.chirag_x" target="blank"><img align="center" src="https://icons.getbootstrap.com/assets/icons/instagram.svg" alt="x.chirag_x" height="30" width="40" /></a>
   
 <h3 align="left">Languages and Tools:</h3>
