@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Chirag</h1>
-<h3 align="center">A passionate Frontend Developer</h3>
+<h3 align="center">A Passionate Developer</h3>
+<p align="center"><img src="https://komarev.com/ghpvc/?username=chiragbairwa" /> </p>
 
 - 🌱 I’m currently learning **MERN Stack**
 
