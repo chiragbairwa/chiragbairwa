@@ -2,7 +2,7 @@
 <h3 align="center">A Passionate Developer</h3>
 <p align="center"><img src="https://komarev.com/ghpvc/?username=chiragbairwa" /> </p>
 
-- 🌱 I’m currently learning **MERN Stack**
+- 🌱 I’m currently working on an **Health App**
 
 - 👨‍💻 All of my projects are available at [Portfolio](https://chiragbairwa.codes)
 
