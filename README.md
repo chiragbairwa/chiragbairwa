@@ -15,6 +15,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/chirag-bairwa" target="blank"><img align="center" src="https://icons.getbootstrap.com/assets/icons/linkedin.svg" alt="chiragbairwa" height="30" width="40" /></a>
 <a href="https://instagram.com/x.chirag_x" target="blank"><img align="center" src="https://icons.getbootstrap.com/assets/icons/instagram.svg" alt="x.chirag_x" height="30" width="40" /></a>
+<a href="https://dev.to/chiragbairwa" target="blank"><img align="center" src="https://gist.githubusercontent.com/benhalpern/eff81b17359acafd17849146549b9291/raw/6de3cc24798bd3b133d4d89a1d87004c369eac46/dev-icon.svg" alt="ChiragBairwa" height="30" width="40" /></a>
   
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
