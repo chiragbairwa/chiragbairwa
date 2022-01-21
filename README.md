@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [Portfolio](https://chiragbairwa.codes)
 
-- 📫 How to reach me [**Gmail**](mailto:chirag.dev18@gmail.com)
+- 📫 How to reach me [Gmail](mailto:chirag.dev18@gmail.com)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
