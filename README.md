@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently working on an <a href="http://artidiets.vercel.app/">**Health App**</a>
 
-- 👨‍💻 All of my projects are available at [Portfolio](https://chiragbairwa.codes)
+- 👨‍💻 All of my projects are available at [**Portfolio**](https://chiragbairwa.codes)
 
 - 📫 How to reach me [Gmail](mailto:chirag.dev18@gmail.com)
 
