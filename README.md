@@ -1,11 +1,11 @@
-<h1 align="center">  Hi 👋, I'm Chirag</h1>
+<h1 align="center">  Hi <img src="https://c.tenor.com/yWSRmymbuBkAAAAC/waving-hi.gif " height="30" width="30" />, I'm Chirag</h1>
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=chiragbairwa" />
   </p>
 
 <img src="https://camo.githubusercontent.com/992babdffd8c74a1502de375fbdf7e4d54773242/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966" width="450px" align="right" >
 
-- 🌱 I’m currently working on an <a href="http://pokedex-app-chiragbairwa.vercel.app/">**POKEDEX**</a>
+- 🌱 I’m currently working on a [**College Project**](https://github.com/chiragbairwa/student-attendance)
 
 - 👨‍💻 All of my projects are available at [**Portfolio**](https://chiragbairwa.codes)
 
@@ -13,9 +13,18 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/chirag-bairwa" target="blank"><img align="center" src="https://icons.getbootstrap.com/assets/icons/linkedin.svg" alt="chiragbairwa" height="30" width="40" /></a>
-<a href="https://instagram.com/hi.chirag" target="blank"><img align="center" src="https://icons.getbootstrap.com/assets/icons/instagram.svg" alt="x.chirag_x" height="30" width="40" /></a>
-<a href="https://dev.to/chiragbairwa" target="blank"><img align="center" src="https://gist.githubusercontent.com/benhalpern/eff81b17359acafd17849146549b9291/raw/6de3cc24798bd3b133d4d89a1d87004c369eac46/dev-icon.svg" alt="ChiragBairwa" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/chirag-bairwa" target="blank">
+  <img align="center" src="https://icons.getbootstrap.com/assets/icons/linkedin.svg" alt="chiragbairwa" height="30" width="40" />
+</a>
+<a href="https://instagram.com/hi.chirag" target="blank">
+  <img align="center" src="https://icons.getbootstrap.com/assets/icons/instagram.svg" alt="x.chirag_x" height="30" width="40" />
+</a>
+<a href="https://twitter.com/chiragbairwa" target="blank">
+  <img align="center" src="https://icons.getbootstrap.com/assets/icons/twitter.svg" alt="chirag" height="30" width="40" />
+</a>
+<a href="https://dev.to/chiragbairwa" target="blank">
+  <img align="center" src="https://gist.githubusercontent.com/benhalpern/eff81b17359acafd17849146549b9291/raw/6de3cc24798bd3b133d4d89a1d87004c369eac46/dev-icon.svg" alt="ChiragBairwa" height="30" width="40" />
+</a>
   
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
