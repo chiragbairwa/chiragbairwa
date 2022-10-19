@@ -5,9 +5,9 @@
 
 <img src="https://camo.githubusercontent.com/992babdffd8c74a1502de375fbdf7e4d54773242/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966" width="450px" align="right" >
 
-- 🌱 I’m currently working on a [College Project](https://github.com/chiragbairwa/library-college)
+- 🌱 I’m currently working on a [**Hackathon Project**](https://github.com/chiragbairwa/saath-app)
 
-- 👨‍💻 All of my projects are available at [**Portfolio**](https://chiragbairwa.codes)
+- 👨‍💻 All of my projects are available at [**Portfolio**](https://chiragbairwa.vercel.app)
 
 - 📫 How to reach me [**chirag.dev18@gmail.com**](mailto:chirag.dev18@gmail.com)
 
