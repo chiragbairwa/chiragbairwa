@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently working on a [**Quiz App**](https://github.com/chiragbairwa/Quiz-App)
 
-- 👨‍💻 All of my projects are available at [**Portfolio**](https://chiragbairwa.vercel.app)
+- 👨‍💻 All of my projects are available at [**Portfolio**](https://chiragbairwa2.vercel.app)
 
 - 📫 How to reach me [**chirag.dev18@gmail.com**](mailto:chirag.dev18@gmail.com)
 
