@@ -5,7 +5,7 @@
 
 <img src="https://camo.githubusercontent.com/992babdffd8c74a1502de375fbdf7e4d54773242/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966" width="450px" align="right" >
 
-- 🌱 I’m currently working on a [**Quiz App**](https://github.com/chiragbairwa/Quiz-App)
+- 🌱 I’m currently working on a [**CollegeCodes**](https://github.com/chiragbairwa/Quiz-App)
 
 - 👨‍💻 All of my projects are available at [**Portfolio**](https://chiragbairwa.ml)
 
@@ -38,7 +38,7 @@
 <p align="left">
 <a href="https://www.dev.to/chiragbairwa" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto.svg" width="32" height="32" /></a> 
 <a href="https://www.github.com/chiragbairwa" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> 
-<a href="https://www.linkedin.com/in/chirag-bairwa" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> 
+<a href="https://www.linkedin.com/in/chiragbairwa" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> 
 <a href="https://www.twitter.com/chiragbairwa" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a>
 <a href="https://leetcode.com/chiragbairwa/" target="_blank" rel="noreferrer"><img src="https://assets.leetcode.com/users/leetcode/avatar_1568224780.png" width="32" height="32" /></a>
 <a href="http://discordapp.com/users/Chirag#0550" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a>
