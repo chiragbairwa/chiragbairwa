@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently working on a [**E-commerce App**](https://ecom-chirag.vercel.app/)
 
-- 👨‍💻 All of my projects are available at [**Portfolio**](https://chiragbairwa.ml)
+- 👨‍💻 All of my projects are available at [**Portfolio**](https://chiragbairwa.vercel.app)
 
 - 📫 How to reach me [**chirag.dev18@gmail.com**](mailto:chirag.dev18@gmail.com)
 
